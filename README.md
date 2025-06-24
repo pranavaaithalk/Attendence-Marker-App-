@@ -16,7 +16,7 @@ Images:
 - The status of IMG upload is shown for convenience using status bar.
 - Then the Work location img has to be captured and uploaded.
 - After that when the user presses "Mark Attendance" button then the user's current location is fetched in baground through GPS and uploaded to FireBase server.
-![IMG_20250624_161102](https://github.com/user-attachments/assets/563a69d6-264c-4460-b17f-5ca6fb68df38)
+![IMG_20250624_161121](https://github.com/user-attachments/assets/6fc18b35-a593-4887-9137-5d3f51621724)
 ![IMG_20250624_161121](https://github.com/user-attachments/assets/9715912a-dc14-46bb-b94e-a21c7c114081)
 
 
