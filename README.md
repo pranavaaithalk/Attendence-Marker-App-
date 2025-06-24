@@ -4,7 +4,7 @@ Android app for remote employee attendance. Captures face and workplace images w
 Images:
 
 - This is the Signup/Login page for the app, with Google Signin supported.
-![IMG_20250624_161020](https://github.com/user-attachments/assets/29fba56e-0709-491a-9563-dc8124b53d62)
+  ![IMG_20250624_161020](https://github.com/user-attachments/assets/29fba56e-0709-491a-9563-dc8124b53d62)
 
 
 
@@ -17,8 +17,8 @@ Images:
 - The status of IMG upload is shown for convenience using status bar.
 - Then the Work location img has to be captured and uploaded.
 - After that when the user presses "Mark Attendance" button then the user's current location is fetched in baground through GPS and uploaded to FireBase server.
-![IMG_20250624_161121](https://github.com/user-attachments/assets/219355bf-5ac0-4c77-8de1-ed665229d7d7)
-![IMG_20250624_161102](https://github.com/user-attachments/assets/74fdca89-84c2-48ba-9fdc-e093869ce576)
+  ![IMG_20250624_161121](https://github.com/user-attachments/assets/219355bf-5ac0-4c77-8de1-ed665229d7d7)
+  ![IMG_20250624_161102](https://github.com/user-attachments/assets/74fdca89-84c2-48ba-9fdc-e093869ce576)
 
 
 
